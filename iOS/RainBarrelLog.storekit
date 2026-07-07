@@ -1,0 +1,27 @@
+{
+  "identifier" : "rainbarrellog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "rainbarrellog_pro",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited entries and pro features.",
+          "displayName" : "Rain Barrel Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.rainbarrellog.pro",
+      "referenceName" : "Rain Barrel Log Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
